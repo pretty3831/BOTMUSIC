@@ -353,4 +353,4 @@ client.user.setGame(`Toxic Codes Team`,"http://twitch.tv/Toxic Codes")
 client.user.setStatus("dnd")
 });
 
-client.login(NTI2OTU0NTgwNDQyMDg3NDI0.DxHxlg.OA3kvH95CjgLzdggFRp470RA3sQ);
+client.login("NTI2OTU0NTgwNDQyMDg3NDI0.DxHyFw.0Cq34u4dLIhcF5IYkbsU-LWbPOM");
